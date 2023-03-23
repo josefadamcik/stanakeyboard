@@ -388,7 +388,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "zzkeeb"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -418,7 +420,25 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "col0": "rgb(255, 99, 57)",
+      "col1": "rgb(255, 44, 51)",
+      "col10": "rgb(64, 255, 164)",
+      "col11": "rgb(50, 255, 189)",
+      "col2": "rgb(255, 119, 170)",
+      "col3": "rgb(255, 70, 138)",
+      "col4": "rgb(255, 91, 225)",
+      "col5": "rgb(255, 77, 203)",
+      "col6": "rgb(152, 255, 99)",
+      "col7": "rgb(117, 255, 137)",
+      "col8": "rgb(78, 255, 135)",
+      "col9": "rgb(86, 255, 123)",
+      "row0": "rgb(49, 72, 255)",
+      "row1": "rgb(111, 212, 255)",
+      "row2": "rgb(153, 212, 255)",
+      "row3": "rgb(91, 43, 255)",
+      "row4": "rgb(75, 14, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
